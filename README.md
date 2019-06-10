@@ -1,3 +1,5 @@
+> ### Attention: My fork of NetWrapper has now been moved over to [XLib](https://github.com/xaviergmail/xlib). This repository will no longer receive updates and exists solely to keep my current [pull request](https://github.com/Mista-Tea/netwrapper/pull/4) alive.
+
 NetWrapper
 ==========
 
